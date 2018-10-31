@@ -4,7 +4,7 @@ This is the repository for 2018's collaborative NaNoLiPo project.
 ## What is Oulipo?
 Oulipo stands for [_Ouvroir de littérature potentielle_](https://en.wikipedia.org/wiki/Oulipo). It's an approach to creative writing in which you seek inspiration in formal constraints. One of the most famous published works written in oulipo is Georges Perec's [_La Disparition_](https://en.wikipedia.org/wiki/A_Void), a novel that does not contain a single instance of the letter "e".
 
-I've been a fan of constrained writing for years, but only got seriously into it when I joined Mouse Reeve's [oulipo.social](https://oulipo.social), a Mastodon instance that follows George Perec's constraint, which means it's impossible to post anything containing an e on the instance.
+I've been a fan of constrained writing for years, but only got seriously into it when I joined Mouse Reeve's [oulipo.social](https://oulipo.social), a Mastodon instance that follows Georges Perec's constraint, which means it's impossible to post anything containing an e on the instance.
 
 More recent prior art includes the [Found Poetry Review's NaPoMo project in 2014](http://www.foundpoetryreview.com/oulipost/), which had participants write poems following oulipotic constraints and using linguistic material found in a daily newspaper.
 
@@ -24,6 +24,7 @@ If you're feeling extra creative, you can combine your NaNoLiPo efforts with ano
 * Nov. 5: **#vomitlipo** -- In your text, the order of consonant phonemes in each word must follow the [place of articulation](https://en.wikipedia.org/wiki/English_phonology); start with phonemes articulated at the back of the mouth, end with phonemes articulated at the front. For instance, "good" starts at the velum and ends at the alveolar ridge. You can follow the [table in this article](https://en.wikipedia.org/wiki/English_phonology#Consonants) from right to left.
 * Nov. 6: **#mirrorlipo** -- You may only use letters that have at least one axis of symmetry.
 * Nov. 7: **#interleaflipo** -- Reading every other word in your text must still yield a full, valid text.
+* Nov. 8: **#recyclipo** -- The same set of letters must appear in each sentence of your text. 
 * Nov. 9: **#quintilipo** -- All words in your text must contain at least 5 letters.
 * Nov. 10: **#vowelringlipo** -- The order in which the vowels a, e, i, o, u appear (across words) must stay the same throughout the text. You can pick the order of your vowels.
 * Nov. 11: **#monotonelipo** -- All words in your text must have the same length.
