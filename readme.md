@@ -17,7 +17,7 @@ Everybody wins. The original [NaNoWriMo](https://nanowrimo.org/) has you write 5
 If you're feeling extra creative, you can combine your NaNoLiPo efforts with another NaNo, for instance by creating a program that generates a text for each prompt, instead of writing the text yourself.
 
 # The Prompts
-* Nov. 1: **#avoidlipo** -- Your text may not contain any "e"s.
+* Nov. 1: **#avoidlipo** -- Start off with a fairly comfy constraint. It's a day for imitating our old Oulipo pal, Anton Vowl. That most common symbol, our fifth if going from A to Z: don't put it in your writing. Not today, for NaNoLiPo; not any day, for [oulipo.social](https://oulipo.social/).
 * Nov. 2: **#monosyllablipo** -- All words in your text must consist of exactly one syllable.
 * Nov. 3: **#punchcardlipo** -- Each sentence in your text must contain [exactly 80 characters](https://en.wikipedia.org/wiki/Punched_card#IBM_80-column_punched_card_format_and_character_codes).
 * Nov. 4: **#tautogramlipo** -- All words in your text must [begin with the same letter](https://en.wikipedia.org/wiki/Tautogram). You can choose the letter.
@@ -46,6 +46,3 @@ If you're feeling extra creative, you can combine your NaNoLiPo efforts with ano
 * Nov. 28: **#anglipo** -- Your text may [only](https://en.wikipedia.org/wiki/Linguistic_purism_in_English) contain words of [Anglo-Saxon origin](https://en.wikipedia.org/wiki/List_of_English_words_of_Anglo-Saxon_origin).
 * Nov. 29: **#ouroborolipo** -- Each sentence in your text must end with the same word with which it begins.
 * Nov. 30: **#traindenullepartlipo** -- Your text [may not contain any verbs](https://en.wikipedia.org/wiki/Le_Train_de_Nulle_Part).
-
-
-
